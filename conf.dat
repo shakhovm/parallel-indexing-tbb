@@ -1,0 +1,5 @@
+input_directory=../../../../../guten/2/3
+out_by_a=../results_by_a.txt
+out_by_n=../results_by_n.txt
+indexing_threads=4
+merging_threads=3
